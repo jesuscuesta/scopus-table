@@ -1,1 +1,0 @@
-import{Db as r,Jb as s,ea as o,kb as i,lb as a}from"./chunk-VS6IYQKV.js";var d=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-wos"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,c){n&1&&(i(0,"p"),r(1,"wos works!"),a())}});let t=e;return t})();export{d as WosComponent};
