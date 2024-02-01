@@ -1,5 +1,5 @@
 {
-  "name": "phd-training",
+  "name": "scopus-table",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -20,6 +20,7 @@
     "@angular/platform-browser": "^17.0.0",
     "@angular/platform-browser-dynamic": "^17.0.0",
     "@angular/router": "^17.0.0",
+    "angular-cli-ghpages": "^2.0.0-beta.2",
     "chart.js": "^4.4.1",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
