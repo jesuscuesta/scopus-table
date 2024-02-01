@@ -11,5 +11,5 @@ import { HeaderComponent } from './core/components/header/header.component';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'phd-training';
+  title = 'scopus-table';
 }
